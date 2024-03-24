@@ -1,3 +1,3 @@
 Server: Spring Boot
 DB:PostgrelSQL
-WebAPI cho App học tiếng anh
+Frontend cho App học tiếng anh
